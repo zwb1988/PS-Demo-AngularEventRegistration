@@ -1,0 +1,8 @@
+<div class="well span9">
+	<collapsible title="{{ name }}">
+		<h6 style="margin-top:-10px">{{ creatorName }}</h6>
+		<span>Duration: {{ duration | durations }}</span><br/>
+		<span>Level: <i class="{{ level | lowercase | levels }}"></i></span><br/>
+		<p>{{ abstract }}</p>
+	</collapsible>
+</div>

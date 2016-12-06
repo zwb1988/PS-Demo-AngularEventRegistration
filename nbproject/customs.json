@@ -1,0 +1,33 @@
+{
+    "elements": {
+        "event-thumbnail": {},
+        "event-detail": {
+            "attributes": {
+                "reload-action": {},
+                "event-date": {},
+                "event-name": {},
+                "event-location": {},
+                "image-url": {},
+                "event-time": {}
+            }
+        },
+        "session-thumbnail": {
+            "attributes": {
+                "duration": {},
+                "level": {},
+                "name": {},
+                "creator-name": {},
+                "abstract": {}
+            }
+        },
+        "ng-view": {},
+        "upvote": {
+            "attributes": {
+                "downvote": {},
+                "count": {},
+                "upvote": {}
+            }
+        }
+    },
+    "attributes": {}
+}
